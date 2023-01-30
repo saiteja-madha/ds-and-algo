@@ -10,6 +10,7 @@
 | 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | Easy       |
 | 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 | Easy       |
 | 058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                       | Easy       |
+| 066 | [Plus One](https://leetcode.com/problems/plus-one/)                                                                             | Easy       |
 | 067 | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                         | Easy       |
 | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                               | Easy       |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | Easy       |
