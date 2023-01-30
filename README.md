@@ -16,4 +16,6 @@
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | Easy       |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)                                 | Medium     |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                 | Easy       |
+| 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/)                                                               | Easy       |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                                                             | Easy       |
+| 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/)                                                                   | Easy       |
