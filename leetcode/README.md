@@ -1,0 +1,18 @@
+### LeetCode Questions
+
+| QNo | Problem                                                                                                                         | Difficulty |
+| --- | ------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| 001 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | Easy       |
+| 003 | [Longest Substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium     |
+| 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                           | Easy       |
+| 013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                             | Easy       |
+| 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                   | Easy       |
+| 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | Easy       |
+| 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 | Easy       |
+| 058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                       | Easy       |
+| 067 | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                         | Easy       |
+| 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                               | Easy       |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | Easy       |
+| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)                                 | Medium     |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                 | Easy       |
+| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                                                             | Easy       |
