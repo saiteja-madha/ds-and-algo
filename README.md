@@ -14,6 +14,7 @@
 | 067 | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                         | Easy       |
 | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                               | Easy       |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | Easy       |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/)                                                                   | Easy       |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)                                 | Medium     |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                 | Easy       |
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/)                                                               | Easy       |
