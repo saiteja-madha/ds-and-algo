@@ -15,6 +15,9 @@
 | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                               | Easy       |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | Easy       |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/)                                                                   | Easy       |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/)                                                             | Easy       |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                         | Easy       |
+| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)                                                   | Easy       |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)                                 | Medium     |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                 | Easy       |
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/)                                                               | Easy       |
