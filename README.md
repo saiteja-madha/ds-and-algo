@@ -14,12 +14,18 @@
 | 067 | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                         | Easy       |
 | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                               | Easy       |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | Easy       |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                             | Easy       |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/)                                                                   | Easy       |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/)                                                             | Easy       |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                         | Easy       |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)                                                   | Easy       |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | Easy       |
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)                                                                       | Easy       |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                 | Easy       |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)                                 | Medium     |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                 | Easy       |
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/)                                                               | Easy       |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                                                             | Easy       |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/)                                                                   | Easy       |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                   | Easy       |
+| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                                           | Easy       |
