@@ -18,7 +18,7 @@
 # 1. 1 step + 1 step + 1 step
 # 2. 1 step + 2 steps
 # 3. 2 steps + 1 step
- 
+
 
 # Constraints:
 # 1 <= n <= 45
@@ -27,11 +27,14 @@ class Solution:
     def climbStairs(self, n: int) -> int:
         arr = [0] * n
         for i in range(n - 1, -1, -1):
-            if i == n-1: arr[i] = 1
-            elif i == n-2: arr[i] = 2
+            if i == n-1:
+                arr[i] = 1
+            elif i == n-2:
+                arr[i] = 2
             else:
                 arr[i] = arr[i+1] + arr[i+2]
         return arr[0]
-    
+
+
 print(Solution().climbStairs(2))  # 2
 print(Solution().climbStairs(3))  # 3

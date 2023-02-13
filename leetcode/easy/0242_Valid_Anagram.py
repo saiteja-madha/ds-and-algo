@@ -11,7 +11,7 @@
 # Example 2:
 # Input: s = "rat", t = "car"
 # Output: false
- 
+
 # Constraints:
 # 1 <= s.length, t.length <= 5 * 104
 # s and t consist of lowercase English letters.
@@ -30,10 +30,10 @@ class Solution:
             else:
                 return False
         for k in map:
-            if map[k] != 0 :
+            if map[k] != 0:
                 return False
         return True
 
 
-print(Solution().isAnagram("anagram", "nagaram")) # true
-print(Solution().isAnagram("rat", "car")) # false
+print(Solution().isAnagram("anagram", "nagaram"))  # true
+print(Solution().isAnagram("rat", "car"))  # false

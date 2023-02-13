@@ -39,5 +39,5 @@ class Solution:
         return True
 
 
-print(Solution().isPalindrome("amanaplanacanalpanama")) # true
-print(Solution().isPalindrome("race a car")) # false
+print(Solution().isPalindrome("amanaplanacanalpanama"))  # true
+print(Solution().isPalindrome("race a car"))  # false

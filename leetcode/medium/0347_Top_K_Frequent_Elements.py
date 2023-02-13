@@ -16,15 +16,16 @@
 # -10^4 <= nums[i] <= 10^4
 # k is in the range [1, the number of unique elements in the array].
 # It is guaranteed that the answer is unique.
- 
+
 # Follow up: Your algorithm's time complexity must be better than O(n log n), where n is the array's size.
 
 from typing import List
 
+
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         my_map = {}
-        freq = [[ ] for _ in range(len(nums) + 1)]
+        freq = [[] for _ in range(len(nums) + 1)]
 
         # store occurrence count
         for num in nums:
@@ -44,5 +45,5 @@ class Solution:
         return res
 
 
-print(Solution().topKFrequent([1,1,1,2,2,3], 2)) # [1, 2]
-print(Solution().topKFrequent([1], 1)) # [1]
+print(Solution().topKFrequent([1, 1, 1, 2, 2, 3], 2))  # [1, 2]
+print(Solution().topKFrequent([1], 1))  # [1]

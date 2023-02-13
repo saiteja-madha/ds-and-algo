@@ -17,7 +17,7 @@
 # Input: n = 14
 # Output: false
 # Explanation: 14 is not ugly since it includes the prime factor 7.
- 
+
 # Constraints:
 # -2^31 <= n <= 2^31 - 1
 
@@ -33,7 +33,8 @@ class Solution:
             else:
                 return False
         return n == 1
-    
-print(Solution().isUgly(6)) # true
-print(Solution().isUgly(1)) # true
-print(Solution().isUgly(14)) # false
+
+
+print(Solution().isUgly(6))  # true
+print(Solution().isUgly(1))  # true
+print(Solution().isUgly(14))  # false

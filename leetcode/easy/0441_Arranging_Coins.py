@@ -12,7 +12,7 @@
 # Input: n = 8
 # Output: 3
 # Explanation: Because the 4th row is incomplete, we return 3.
- 
+
 # Constraints:
 # 1 <= n <= 2^31 - 1
 
@@ -22,11 +22,12 @@ class Solution:
         last = 0
         for i in range(1, n + 1):
             if rem < i:
-                return i -1
+                return i - 1
             used += i
             rem = n - used
             last = i
         return last
-    
+
+
 print(Solution().arrangeCoins(5))  # 2
 print(Solution().arrangeCoins(8))  # 3

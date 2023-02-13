@@ -20,6 +20,7 @@
 
 from typing import List
 
+
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         nums.sort()
@@ -38,7 +39,7 @@ class Solution:
         return res
 
 
-print(Solution().majorityElement([3,2,3])) # 3
-print(Solution().majorityElement([2,2,1,1,1,2,2])) # 2
-print(Solution().majorityElement([3,3,4])) # 3
-print(Solution().majorityElement([-1,1,1,1,2,1])) # 1
+print(Solution().majorityElement([3, 2, 3]))  # 3
+print(Solution().majorityElement([2, 2, 1, 1, 1, 2, 2]))  # 2
+print(Solution().majorityElement([3, 3, 4]))  # 3
+print(Solution().majorityElement([-1, 1, 1, 1, 2, 1]))  # 1

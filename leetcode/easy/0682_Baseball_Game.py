@@ -11,7 +11,7 @@
 
 # The test cases are generated such that the answer and all intermediate calculations fit in a 32-bit integer and that all operations are valid.
 
- 
+
 # Example 1:
 # Input: ops = ["5","2","C","D","+"]
 # Output: 30
@@ -44,7 +44,7 @@
 # "1" - Add 1 to the record, record is now [1].
 # "C" - Invalidate and remove the previous score, record is now [].
 # Since the record is empty, the total sum is 0.
- 
+
 
 # Constraints:
 # 1 <= operations.length <= 1000
@@ -53,6 +53,7 @@
 # For operations "C" and "D", there will always be at least one previous score on the record.
 
 from typing import List
+
 
 class Solution:
     def calPoints(self, operations: List[str]) -> int:
@@ -67,7 +68,8 @@ class Solution:
             else:
                 arr.append(int(op))
         return sum(arr)
-    
-print(Solution().calPoints(["5","2","C","D","+"]))  # 30
-print(Solution().calPoints(["5","-2","4","C","D","9","+","+"]))  # 27
-print(Solution().calPoints(["1","C"]))  # 0
+
+
+print(Solution().calPoints(["5", "2", "C", "D", "+"]))  # 30
+print(Solution().calPoints(["5", "-2", "4", "C", "D", "9", "+", "+"]))  # 27
+print(Solution().calPoints(["1", "C"]))  # 0
