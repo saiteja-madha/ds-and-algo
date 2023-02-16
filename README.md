@@ -17,6 +17,8 @@
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                             | Easy       |
 | 136  | [Single Number](https://leetcode.com/problems/single-number/)                                                                   | Easy       |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element/)                                                             | Easy       |
+| 203  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                                       | Easy       |
+| 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                       | Easy       |
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                         | Easy       |
 | 219  | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)                                                   | Easy       |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | Easy       |
@@ -30,4 +32,5 @@
 | 682  | [Baseball Game](https://leetcode.com/problems/baseball-game/)                                                                   | Easy       |
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                   | Easy       |
 | 771  | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                                           | Easy       |
+| 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                           | Easy       |
 | 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)                                                 | Easy       |
