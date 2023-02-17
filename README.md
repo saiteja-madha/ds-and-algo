@@ -13,9 +13,11 @@
 | 066  | [Plus One](https://leetcode.com/problems/plus-one/)                                                                             | Easy       |
 | 067  | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                         | Easy       |
 | 070  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                               | Easy       |
+| 083  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                         | Easy       |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | Easy       |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                             | Easy       |
 | 136  | [Single Number](https://leetcode.com/problems/single-number/)                                                                   | Easy       |
+| 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                             | Easy       |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element/)                                                             | Easy       |
 | 203  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                                       | Easy       |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                       | Easy       |
