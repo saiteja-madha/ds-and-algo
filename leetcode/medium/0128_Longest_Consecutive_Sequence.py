@@ -24,10 +24,10 @@ class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         if len(nums) == 0:
             return 0
-        
+
         if len(nums) == 1:
             return 1
-        
+
         data = set(nums)
         cur_max = 1
 
@@ -44,8 +44,8 @@ class Solution:
         return cur_max
 
 
-print(Solution().longestConsecutive([100,4,200,1,3,2])) # 4
-print(Solution().longestConsecutive([])) # 0
-print(Solution().longestConsecutive([0, 0])) # 1
-print(Solution().longestConsecutive([0])) # 1
-print(Solution().longestConsecutive([0,-1])) # 2
+print(Solution().longestConsecutive([100, 4, 200, 1, 3, 2]))  # 4
+print(Solution().longestConsecutive([]))  # 0
+print(Solution().longestConsecutive([0, 0]))  # 1
+print(Solution().longestConsecutive([0]))  # 1
+print(Solution().longestConsecutive([0, -1]))  # 2

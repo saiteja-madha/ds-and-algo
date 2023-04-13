@@ -9,10 +9,10 @@
 # Note:
 # A Sudoku board (partially filled) could be valid but is not necessarily solvable.
 # Only the filled cells need to be validated according to the mentioned rules.
- 
+
 
 # Example 1:
-# Input: board = 
+# Input: board =
 # [["5","3",".",".","7",".",".",".","."]
 # ,["6",".",".","1","9","5",".",".","."]
 # ,[".","9","8",".",".",".",".","6","."]
@@ -26,7 +26,7 @@
 
 # Example 2:
 #
-# Input: board = 
+# Input: board =
 # [["8","3",".",".","7",".",".",".","."]
 # ,["6",".",".","1","9","5",".",".","."]
 # ,[".","9","8",".",".",".",".","6","."]
@@ -38,7 +38,7 @@
 # ,[".",".",".",".","8",".",".","7","9"]]
 # Output: false
 # Explanation: Same as Example 1, except with the 5 in the top left corner being modified to 8. Since there are two 8's in the top left 3x3 sub-box, it is invalid.
- 
+
 # Constraints:
 # board.length == 9
 # board[i].length == 9
@@ -68,11 +68,12 @@ class Solution:
                         return False
                     data.add(el)
 
-        dia = [(0,0), (0,3), (0,6), (3,0), (3,3), (3,6), (6,0), (6,3), (6,6)]
+        dia = [(0, 0), (0, 3), (0, 6), (3, 0), (3, 3),
+               (3, 6), (6, 0), (6, 3), (6, 6)]
         for x, y in dia:
             data = set()
-            for i in range(0,3):
-                for j in range(0,3):
+            for i in range(0, 3):
+                for j in range(0, 3):
                     el = board[x+i][y+j]
                     if el != ".":
                         if el in data:
@@ -80,6 +81,15 @@ class Solution:
                         data.add(el)
 
         return True
-    
 
-print(Solution().isValidSudoku( [[".",".",".",".","5",".",".","1","."],[".","4",".","3",".",".",".",".","."],[".",".",".",".",".","3",".",".","1"],["8",".",".",".",".",".",".","2","."],[".",".","2",".","7",".",".",".","."],[".","1","5",".",".",".",".",".","."],[".",".",".",".",".","2",".",".","."],[".","2",".","9",".",".",".",".","."],[".",".","4",".",".",".",".",".","."]]))
+
+print(Solution().isValidSudoku([[".", ".", ".", ".", "5", ".", ".", "1", "."],
+                                [".", "4", ".", "3", ".", ".", ".", ".", "."],
+                                [".", ".", ".", ".", ".", "3", ".", ".", "1"],
+                                ["8", ".", ".", ".", ".", ".", ".", "2", "."],
+                                [".", ".", "2", ".", "7", ".", ".", ".", "."],
+                                [".", "1", "5", ".", ".", ".", ".", ".", "."],
+                                [".", ".", ".", ".", ".", "2", ".", ".", "."],
+                                [".", "2", ".", "9", ".", ".", ".", ".", "."],
+                                [".", ".", "4", ".", ".", ".", ".", ".", "."]
+                                ]))

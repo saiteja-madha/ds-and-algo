@@ -24,7 +24,7 @@ class Solution:
         for i in range(1, len(nums)):
             l = left[i - 1]
             left.append(l * nums[i])
-        
+
         right = [0] * len(nums)
         right[len(nums) - 1] = nums[len(nums) - 1]
         for i in range(len(nums) - 2, 0, -1):
