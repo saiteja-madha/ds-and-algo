@@ -9,6 +9,7 @@
 | 014  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                   | Easy       |
 | 020  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | Easy       |
 | 021  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 | Easy       |
+| 036  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                     | Medium     |
 | 049  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                 | Medium     |
 | 058  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                       | Easy       |
 | 066  | [Plus One](https://leetcode.com/problems/plus-one/)                                                                             | Easy       |
@@ -17,6 +18,7 @@
 | 083  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                         | Easy       |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | Easy       |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                             | Easy       |
+| 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                     | Medium     |
 | 136  | [Single Number](https://leetcode.com/problems/single-number/)                                                                   | Easy       |
 | 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                             | Easy       |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element/)                                                             | Easy       |
@@ -24,6 +26,7 @@
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                       | Easy       |
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                         | Easy       |
 | 219  | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)                                                   | Easy       |
+| 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                     | Medium     |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | Easy       |
 | 263  | [Ugly Number](https://leetcode.com/problems/ugly-number/)                                                                       | Easy       |
 | 268  | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                 | Easy       |
