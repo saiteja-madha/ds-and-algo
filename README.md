@@ -7,6 +7,7 @@
 | 009  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                           | Easy       |
 | 013  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                             | Easy       |
 | 014  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                   | Easy       |
+| 015  | [3Sum](https://leetcode.com/problems/3sum/)                                                                                     | Medium     |
 | 020  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | Easy       |
 | 021  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 | Easy       |
 | 036  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                     | Medium     |
@@ -21,6 +22,7 @@
 | 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                     | Medium     |
 | 136  | [Single Number](https://leetcode.com/problems/single-number/)                                                                   | Easy       |
 | 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                             | Easy       |
+| 167  | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                           | Easy       |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element/)                                                             | Easy       |
 | 203  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                                       | Easy       |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                       | Easy       |
