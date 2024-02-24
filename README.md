@@ -1,3 +1,15 @@
+### Pattern Based Questions
+
+| QNo  | Problem                                                                                                                         | Pattern      |
+| ---- | --------------------------------------------------------------------------------------------------------------- | ------------  |
+| 001  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                             | Two Pointers |
+| 002  | [Sum of Three Values](https://www.educative.io/courses/grokking-coding-interview-patterns-python/sum-of-three-values)                                                                   | Two Pointers |
+| 003  | [Three Sum](https://leetcode.com/problems/3sum/)                                                                   | Two Pointers |
+| 004  | [Remove nth Node from End of the List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                                                                   | Two Pointers |
+| 005 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                                                   | Two Pointers |
+| 006  | [Valid Palindrome 2](https://leetcode.com/problems/valid-palindrome-ii/)                                                                   | Two Pointers |
+
+
 ### LeetCode Questions
 
 | QNo  | Problem                                                                                                                         | Difficulty |
