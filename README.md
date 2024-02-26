@@ -13,6 +13,8 @@
 | 009 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                 | Fast and Slow Pointers |                         |
 | 010 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                 | Fast and Slow Pointers | Floyd's cycle detection |
 | 011 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                       | Fast and Slow Pointers |                         |
+| 012 | [Repeated DNS Sequence](https://leetcode.com/problems/repeated-dna-sequences/)                                        | Sliding Window         |                         |
+| 013 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)                                       | Sliding Window         |                         |
 
 ### LeetCode Questions
 
