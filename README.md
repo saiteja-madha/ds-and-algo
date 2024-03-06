@@ -1,20 +1,25 @@
 ### Pattern Based Questions
 
-| QNo | Problem                                                                                                               | Pattern                | Algorithm               |
-| --- | --------------------------------------------------------------------------------------------------------------------- | ---------------------- | ----------------------- |
-| 001 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                   | Two Pointers           |                         |
-| 002 | [Sum of Three Values](https://www.educative.io/courses/grokking-coding-interview-patterns-python/sum-of-three-values) | Two Pointers           |                         |
-| 003 | [Three Sum](https://leetcode.com/problems/3sum/)                                                                      | Two Pointers           |                         |
-| 004 | [Remove nth Node from End of the List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)               | Two Pointers           |                         |
-| 005 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                 | Two Pointers           |                         |
-| 006 | [Valid Palindrome 2](https://leetcode.com/problems/valid-palindrome-ii/)                                              | Two Pointers           |                         |
-| 007 | [Happy Number](https://leetcode.com/problems/happy-number/)                                                           | Fast and Slow Pointers | Floyd's cycle detection |
-| 008 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                 | Fast and Slow Pointers | Floyd's cycle detection |
-| 009 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                 | Fast and Slow Pointers |                         |
-| 010 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                 | Fast and Slow Pointers | Floyd's cycle detection |
-| 011 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                       | Fast and Slow Pointers |                         |
-| 012 | [Repeated DNS Sequence](https://leetcode.com/problems/repeated-dna-sequences/)                                        | Sliding Window         |                         |
-| 013 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)                                       | Sliding Window         |                         |
+| QNo | Problem                                                                                                                         | Pattern                | Algorithm               |
+| --- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ----------------------- |
+| 001 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                             | Two Pointers           |                         |
+| 002 | [Sum of Three Values](https://www.educative.io/courses/grokking-coding-interview-patterns-python/sum-of-three-values)           | Two Pointers           |                         |
+| 003 | [Three Sum](https://leetcode.com/problems/3sum/)                                                                                | Two Pointers           |                         |
+| 004 | [Remove nth Node from End of the List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                         | Two Pointers           |                         |
+| 005 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                           | Two Pointers           |                         |
+| 006 | [Valid Palindrome 2](https://leetcode.com/problems/valid-palindrome-ii/)                                                        | Two Pointers           |                         |
+| 007 | [Happy Number](https://leetcode.com/problems/happy-number/)                                                                     | Fast and Slow Pointers | Floyd's cycle detection |
+| 008 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                           | Fast and Slow Pointers | Floyd's cycle detection |
+| 009 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                           | Fast and Slow Pointers |                         |
+| 010 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                           | Fast and Slow Pointers | Floyd's cycle detection |
+| 011 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                 | Fast and Slow Pointers |                         |
+| 012 | [Repeated DNS Sequence](https://leetcode.com/problems/repeated-dna-sequences/)                                                  | Sliding Window         |                         |
+| 013 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)                                                 | Sliding Window         |                         |
+| 014 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)               | Sliding Window         |                         |
+| 015 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Sliding Window         |                         |
+| 016 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                           | Sliding Window         |                         |
+| 017 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | Sliding Window         |                         |
+| 018 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                             | Sliding Window         |                         |
 
 ### LeetCode Questions
 
