@@ -20,6 +20,8 @@
 | 016 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                           | Sliding Window         |                         |
 | 017 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | Sliding Window         |                         |
 | 018 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                                             | Sliding Window         |                         |
+| 019 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)                                                             | Graphs                 |                         |
+| 020 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                           | Graphs                 |                         |
 
 ### LeetCode Questions
 
