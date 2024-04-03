@@ -25,6 +25,9 @@
 | 021 | [Clone Graph](https://leetcode.com/problems/clone-graph/)                                                                       | Graphs                 | DFS                     |
 | 022 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                                         | Graphs                 | DFS                     |
 | 023 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/)                                                           | Graphs                 | DFS                     |
+| 024 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)                                       | Graphs                 | DFS                     |
+| 025 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)                                                         | Graphs                 | DFS                     |
+| 026 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                                               | Graphs                 | BFS                     |
 
 ### LeetCode Questions
 
