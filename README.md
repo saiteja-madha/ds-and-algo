@@ -28,6 +28,9 @@
 | 024 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)                                       | Graphs                 | DFS                     |
 | 025 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)                                                         | Graphs                 | DFS                     |
 | 026 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                                               | Graphs                 | BFS                     |
+| 027 | [Islands and Treasure](https://neetcode.io/problems/islands-and-treasure)                                                       | Graphs                 | BFS                     |
+| 028 | [Course Schedule](https://leetcode.com/problems/course-schedule/)                                                               | Graphs                 | DFS                     |
+| 029 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)                                                         | Graphs                 | Topological Sort        |
 
 ### LeetCode Questions
 
